@@ -151,3 +151,4 @@
 ***
 
 [made with ❤️](https://fmhy.net/feedback)
+- [SubDomainWatch](https://subdomainwatch.com) - Continuous subdomain discovery, SSL expiration tracking, and DNS takeover prevention for teams. (Freemium)
