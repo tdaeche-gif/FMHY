@@ -151,4 +151,4 @@
 ***
 
 [made with ❤️](https://fmhy.net/feedback)
-- [Novaframe](https://www.novaframe.co.uk?utm_source=fmhy-awesome&utm_medium=directory&utm_campaign=launch) - Dynamic WebGL, shader, and HTML5 live wallpaper engine and digital marketplace for desktop setups. (Freemium)
+- [Novaframe](https://www.novaframe.co.uk) - Dynamic WebGL, shader, and HTML5 live wallpaper engine and digital marketplace for desktop setups. (Freemium)
